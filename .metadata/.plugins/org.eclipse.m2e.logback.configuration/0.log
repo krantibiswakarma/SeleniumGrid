@@ -1,0 +1,62 @@
+2017-11-15 16:05:21,065 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\SeleniumGrid\SeleniumGridCodebase\Grid\pom.xml
+2017-11-15 16:05:24,801 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumGrid:Grid:0.0.1-SNAPSHOT @ C:\SeleniumGrid\SeleniumGridCodebase\Grid\pom.xml.
+2017-11-15 16:05:26,535 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Grid/src/main/java
+2017-11-15 16:05:26,545 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Grid/src/test/java
+2017-11-15 16:05:27,871 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2017-11-15 16:05:28,377 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:05:28,377 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\main\resources
+2017-11-15 16:05:28,379 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:05:28,379 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\test\resources
+2017-11-15 16:10:14,972 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SeleniumGrid:Grid:0.0.1-SNAPSHOT @ C:\SeleniumGrid\SeleniumGridCodebase\Grid\pom.xml.
+2017-11-15 16:10:16,227 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:10:16,228 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\main\resources
+2017-11-15 16:10:16,230 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:10:16,230 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\test\resources
+2017-11-15 16:10:18,317 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:10:18,317 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\main\resources
+2017-11-15 16:10:18,324 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:10:18,324 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\test\resources
+2017-11-15 16:10:26,024 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:10:26,024 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\main\resources
+2017-11-15 16:10:26,029 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:10:26,033 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\test\resources
+2017-11-15 16:11:05,338 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:11:05,338 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\main\resources
+2017-11-15 16:11:05,343 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:11:05,349 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\test\resources
+2017-11-15 16:11:54,434 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:11:54,434 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\main\resources
+2017-11-15 16:11:54,442 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:11:54,449 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\test\resources
+2017-11-15 16:21:49,361 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:21:49,361 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\main\resources
+2017-11-15 16:21:49,368 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:21:49,375 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\test\resources
+2017-11-15 16:22:37,272 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:22:37,272 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\main\resources
+2017-11-15 16:22:37,278 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:22:37,283 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\test\resources
+2017-11-15 16:23:52,147 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:23:52,147 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\main\resources
+2017-11-15 16:23:52,156 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:23:52,163 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\test\resources
+2017-11-15 16:24:57,858 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:24:57,858 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\main\resources
+2017-11-15 16:24:57,866 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:24:57,873 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\test\resources
+2017-11-15 16:44:26,923 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:44:26,923 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\main\resources
+2017-11-15 16:44:26,929 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:44:26,933 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\test\resources
+2017-11-15 16:45:38,614 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:45:38,615 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\main\resources
+2017-11-15 16:45:38,619 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:45:38,623 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\test\resources
+2017-11-15 16:46:41,554 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:46:41,554 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\main\resources
+2017-11-15 16:46:41,560 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:46:41,563 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\test\resources
+2017-11-15 16:47:42,431 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:47:42,432 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\main\resources
+2017-11-15 16:47:42,438 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-15 16:47:42,443 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\SeleniumGrid\SeleniumGridCodebase\Grid\src\test\resources
